@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "lando",
+      "email": "lando@gmail.com",
+      "password": "$2b$10$e30kvYyKMhrfv3geLlkUZ.swgWqoua/fOGSwu8zdi3UjpokOelJAe",
+      "id": "1778180016255"
+    },
+    {
+      "name": "reymar",
+      "email": "reymar@gmail.com",
+      "password": "$2b$10$6Kcq8romuSmfD8gXql.BlOHaba0YxG4dfo5ePpRMn3TqUEMUKdKcy",
+      "id": "1778256522516"
+    },
+    {
+      "name": "Reymar B. Siba",
+      "email": "sibareymar@gmail.com",
+      "password": "$2b$10$zIGLMFdlWovLlA5R875XF.uacQ5FKtWFWknTwDm8dUnebiweXlYKS",
+      "id": "1778256843978"
+    },
+    {
+      "name": "sibareymar",
+      "email": "siba@gmail.com",
+      "password": "$2b$10$XJQglgoX9yby2ETtZhzisORTwJmAZr7P0g.B61Z19tBckQ6Mz0XcK",
+      "id": "1778259514791"
+    },
+    {
+      "name": "landos",
+      "email": "landos@gmail.com",
+      "password": "$2b$10$RRCqAQjMxgBR/s/4qpPnoueSFvcHK1PvCfOqTk9BOcTFPAJW7vAfe",
+      "id": "1778259930492"
+    },
+    {
+      "name": "HAHAAH",
+      "email": "HAHA@gmail.com",
+      "password": "$2b$10$I4MaWCooeOhSStggzIOM6uZDW6E8n/rYaw4L/mcyPJ2d7tVRYy3xy",
+      "id": "1778459775113"
+    },
+    {
+      "name": "ReymarSiba",
+      "email": "reymars@gmail.com",
+      "password": "$2b$10$79o6blS//u5c88np..EkvOmD8NIkjJ.pETg44epvF6.CcDKDB8/rG",
+      "id": "1778460112866"
+    }
+  ]
+}
